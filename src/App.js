@@ -1,9 +1,9 @@
-import LoginPage from "./pages/LoginPage";
+import LoginPage from "./pages/Login/LoginPage.js";
 
 function App() {
   return (
     <div className="App">
-        <LoginPage/>
+      <LoginPage />
     </div>
   );
 }
